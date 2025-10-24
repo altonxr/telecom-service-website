@@ -14,7 +14,7 @@ function Contact() {
 
   return (
     <div>
-      <h2>Contact Us</h2>
+      <h2>Contact Us Soon</h2>
       <Form onSubmit={handleSubmit}>
         <Form.Group className="mb-3">
           <Form.Label>Name</Form.Label>
